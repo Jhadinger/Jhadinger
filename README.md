@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Learning more about data and what to do with it. I started with Excel, I've been focused on SQL/R, and next I'll be jumping into to Python for data analytics. 
+
 <!--
 **Jhadinger/Jhadinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
